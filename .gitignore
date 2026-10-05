@@ -1,0 +1,29 @@
+# --- Entornos virtuales ---
+venv/
+env/
+ENV/
+.env
+
+# --- Jupyter Notebooks / Checkpoints ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# --- Sistema operativo y editores ---
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code / Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
